@@ -9,7 +9,7 @@
 
 - **Developer:** Smolkina Evgeniya
 - **Email:** smolkina_ev@nlmk.com
-- **Backup:** https://github.com/Evasmall/jse-07
+- **Backup:** https://github.com/Evasmall/jse-08
 
 | Build |
 | ------ |
@@ -17,7 +17,7 @@
 
 | Start |
 | ------ |
-| java -jar target/ev-task-manager-1.0.7.jar |
+| java -jar target/ev-task-manager-1.0.8.jar |
 
 | Terminal commands | 
 | ------ | 
