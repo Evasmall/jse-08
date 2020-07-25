@@ -8,9 +8,12 @@ public class Task {
 
     private String description = "";
 
+    public Task() {
+    }
+
     public Task(String name) {
         this.name = name;
-    };
+    }
 
     public Long getId() {
         return id;

@@ -42,7 +42,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>ru.evasmall.tm.App</mainClass>
+                            <mainClass>ru.evasmall.tm.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

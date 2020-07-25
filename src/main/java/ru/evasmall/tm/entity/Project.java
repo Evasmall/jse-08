@@ -8,9 +8,12 @@ public class Project {
 
     private String description = "";
 
+    public Project() {
+    }
+
     public Project(String name) {
         this.name = name;
-    };
+    }
 
     public Long getId() {
         return id;

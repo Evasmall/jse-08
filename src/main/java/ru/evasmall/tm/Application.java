@@ -11,7 +11,7 @@ import static ru.evasmall.tm.constant.TerminalConst.*;
  * Приложение вывода параметров к занятиям по JAVA
  */
 
-public class App {
+public class Application {
 
     private static final ProjectDAO projectDAO = new ProjectDAO();
 
