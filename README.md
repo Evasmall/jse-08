@@ -25,9 +25,16 @@
 | about - Display developer info. | 
 | help - Display list of terminal commands. | 
 | exit - Terminate console application. |
-| project-list - Display list of projects. | 
-| project-create - Create new project by name. | 
-| project-clear - Remove all projects. | 
-| task-list - Display list of tasks. | 
-| task-create - Create new task by name. | 
-| task-clear - Remove all tasks. | 
+
+| Terminal commands for projects | Terminal commands for tasks | 
+| ------ | ------ | 
+| project-list - Display list of projects. | task-list - Display list of tasks. | 
+| project-create - Create new project by name. | task-create - Create new task by name. | 
+| project-clear - Remove all projects. | task-clear - Remove all tasks. |
+| project-view-by-index - View project by index. | task-view-by-index - View task by index. |
+| project-view-by-id - View project by id. | task-view-by-id - View task by id. |
+| project-remove-by-name - Remove project by name. | task-remove-by-name - Remove task by name. |
+| project-remove-by-id - Remove project by id. | task-remove-by-id - Remove task by id. |
+| project-remove-by-index - Remove project by index. | task-remove-by-index - Remove task by index. |
+| project-update-by-id - Update project by id. | task-update-by-id - Update task by id. |
+| project-update-by-index - Update project by index. |task-update-by-index - Update task by index. |  
